@@ -10,4 +10,4 @@ Utilizo esse espaço para minha organização e compartilhamento dos meus projet
 
 Ig:Lorenzetti_008
 
-![](![image](https://github.com/user-attachments/assets/342d2a31-d90e-48f3-89f9-1a1c8e46b67d)
+![](<iframe src="https://giphy.com/embed/5UqWIbfRyfTjaRulMO" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/psg-inside-heart-neymar-coeur-5UqWIbfRyfTjaRulMO">via GIPHY</a></p>)
