@@ -4,7 +4,7 @@ Meu nome é Enzo lorenzetti
 
 Estou estudando no alura
 
-Estou me desenvolvendo na linguagem JavaScript
+Estou me desenvolvendo na linguagem HTML e CSS
 
 Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
